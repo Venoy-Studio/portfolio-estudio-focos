@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#000"/>
+  <circle cx="962" cy="315" r="220" fill="#181818" stroke="#c49a63" stroke-width="3"/>
+  <circle cx="962" cy="315" r="150" fill="#17303c" stroke="#3f4647" stroke-width="18"/>
+  <circle cx="920" cy="270" r="30" fill="#f5f1e8" opacity=".45"/>
+  <text x="84" y="108" fill="#c49a63" font-family="Manrope, sans-serif" font-size="22" letter-spacing="5">ESTÚDIO FOCOS</text>
+  <text x="84" y="290" fill="#f5f1e8" font-family="Manrope, sans-serif" font-size="76" font-weight="500">Momentos passam.</text>
+  <text x="84" y="380" fill="#c49a63" font-family="Manrope, sans-serif" font-size="76" font-weight="500">A emoção fica.</text>
+  <text x="84" y="520" fill="#aaa398" font-family="Manrope, sans-serif" font-size="24">Fotografia e filmagem em Ribeirão Preto</text>
+</svg>

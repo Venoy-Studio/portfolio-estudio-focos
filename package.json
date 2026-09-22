@@ -1,0 +1,13 @@
+{
+  "name": "estudio-focos-clone",
+  "version": "1.0.0",
+  "description": "Clone exato do site Estúdio Focos (preview-2-kappa.vercel.app)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
