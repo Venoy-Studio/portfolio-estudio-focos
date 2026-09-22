@@ -1,31 +1,42 @@
-# Estúdio Focos - Clone Exato
+﻿<div align="center">
+  <h1>💚 Estúdio Focos — Fotografia & Filmagem</h1>
+  <p><strong>Landing page de alta fidelidade visual para cobertura de casamentos, 15 anos e eventos corporativos.</strong></p>
 
-Clone completo e fiel do site [https://preview-2-kappa.vercel.app/](https://preview-2-kappa.vercel.app/).
+  <p>
+    <a href="https://github.com/Venoy-Studio"><img src="https://img.shields.io/badge/Org-Venoy--Studio-00c853?style=for-the-badge&logo=github" alt="Venoy Studio" /></a>
+    <img src="https://img.shields.io/badge/Node.js-Server-green?style=for-the-badge&logo=node.js" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Next.js-Engine-black?style=for-the-badge&logo=next.js" alt="Next.js" />
+  </p>
+</div>
 
-## Estrutura do Projeto
+---
 
-- `index.html`: Página principal com todo o conteúdo original, meta tags, schemas e estrutura semântica.
-- `privacidade/index.html` (e `privacidade.html`): Página de política de privacidade.
-- `termos/index.html` (e `termos.html`): Página de termos de uso.
-- `_next/`:
-  - `static/immutable/chunks/`: Bundles JavaScript e CSS de estilo idênticos aos de produção.
-  - `static/immutable/media/`: Todas as fontes Manrope originais em formatos WOFF e WOFF2.
-- `images/`:
-  - `camera-poster.svg`, `og-estudio-focos.svg` e `marcelo-ribeiro.png`.
-  - `portfolio/`: Todas as fotografias originais em alta resolução.
-- `favicon.svg`: Ícone do site.
-- `server.js`: Servidor HTTP leve em Node.js (sem dependências externas) com suporte automático ao endpoint `/_next/image` e roteamento limpo.
+## 🌟 Sobre o Projeto
 
-## Como Executar
+O **Estúdio Focos** é um portfólio fotográfico completo com galeria imersiva, depoimentos reais e fluxo direto de solicitação de orçamento por tipo de evento.
 
-Para iniciar o servidor localmente:
+## ✨ Principais Destaques
+
+- **Galeria Visual Imersiva**: Apresentação editorial com categorização para casamentos, ensaios e corporativo.
+- **Servidor Leve Integrado (`server.js`)**: Execução instantânea e autônoma sem dependências de infraestrutura complexa.
+- **Captação Otimizada**: Botões de orçamento direcionados contextualmente para cada categoria de evento.
+
+## 🚀 Como Executar Localmente
 
 ```bash
-npm start
-```
-ou
-```bash
+git clone https://github.com/Venoy-Studio/portfolio-estudio-focos.git
+cd portfolio-estudio-focos
 node server.js
 ```
 
-Abra no seu navegador o endereço indicado (ex: `http://localhost:3000/` ou `http://localhost:3001/`).
+Acesse [http://localhost:3000](http://localhost:3000).
+
+## 🔒 Dados e Privacidade
+
+> [!NOTE]
+> Contatos sanitizados com dados **fictícios** para exibição pública de portfólio da **Venoy Studio**.
+
+---
+<div align="center">
+  <sub>Desenvolvido com excelência por <a href="https://github.com/Venoy-Studio">Venoy Studio</a> 💚</sub>
+</div>
